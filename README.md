@@ -1,2 +1,2 @@
 # Simple Calculator
- A simple calculator program
+ A simple calculator program made using python
